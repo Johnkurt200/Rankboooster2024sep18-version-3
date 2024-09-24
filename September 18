@@ -1,1 +1,10 @@
-# 
+{
+  "Visibility": "VISIBLE",
+  "Title": "UPDATING",
+  "Description": "Please wait a few minutes later bye leomodz",
+  "MainTextButton": "OKEY",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "😄",
+  "Version": "3.1"
+}
